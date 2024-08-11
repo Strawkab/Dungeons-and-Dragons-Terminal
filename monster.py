@@ -14,6 +14,8 @@ class Monster:
 	monster_type = None
 	size = None
 	combat_proficiencies = []
+	proficiencies = []
+	traits = []
 	speed = 0
 	languages = []
 	challenge_rating = 0
